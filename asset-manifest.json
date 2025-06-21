@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/alphart/static/css/main.e6c13ad2.css",
-    "main.js": "/alphart/static/js/main.941808cb.js",
-    "static/js/453.711bad30.chunk.js": "/alphart/static/js/453.711bad30.chunk.js",
+    "main.css": "/alphart/static/css/main.4ed5149e.css",
+    "main.js": "/alphart/static/js/main.1cb7dac7.js",
     "index.html": "/alphart/index.html",
-    "main.e6c13ad2.css.map": "/alphart/static/css/main.e6c13ad2.css.map",
-    "main.941808cb.js.map": "/alphart/static/js/main.941808cb.js.map",
-    "453.711bad30.chunk.js.map": "/alphart/static/js/453.711bad30.chunk.js.map"
+    "main.4ed5149e.css.map": "/alphart/static/css/main.4ed5149e.css.map",
+    "main.1cb7dac7.js.map": "/alphart/static/js/main.1cb7dac7.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.941808cb.js"
+    "static/css/main.4ed5149e.css",
+    "static/js/main.1cb7dac7.js"
   ]
 }
