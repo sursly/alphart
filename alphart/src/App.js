@@ -253,11 +253,7 @@ const App = () => {
 
     return (
         <div className="min-h-screen bg-gray-900 text-gray-100 p-4 flex flex-col items-center font-inter">
-            {/* Tailwind CSS Script for JIT compilation */}
-            <script src="https://cdn.tailwindcss.com"></script>
-            {/* Google Fonts - Inter */}
-            <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
-
+           
             <h1 className="text-4xl font-bold text-blue-400 mb-8 rounded-lg shadow-lg p-3 bg-gray-800">
                 Image to ASCII Art Converter
             </h1>
